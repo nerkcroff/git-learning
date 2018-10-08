@@ -1,0 +1,9 @@
+Mis primeros pasos con git:
+1) Crear "Proyecto" para trastear con git
+2) Ver cómo crear un repositorio en github
+3) crear dicho repositorio y subirle mi "proyecto"
+4) Subir un cambio: add, commit, push
+5) bajarme los cambios del repo: pull
+6) cambiar de rama: checkout ${nombre_de_la_rama}
+7) Hacer modificaciones en ambas ramas para crear un merge (sin conflictos)
+8) Hacer modificaciones en ambas ramas para crear un merge (con conflictos)
