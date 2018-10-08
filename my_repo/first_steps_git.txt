@@ -7,5 +7,5 @@ Mis primeros pasos con git:
 6) cambiar de rama: checkout ${nombre_de_la_rama} - V
 7) Hacer modificaciones en ambas ramas para crear un merge (sin conflictos) - V
 8) Hacer modificaciones en ambas ramas para crear un merge (con conflictos) - V
-9) pruebas conflicto merge
-10) pruebas conflicto merge 2
+9) Crear .gitignore
+10) pruebas conflicto merge - V
